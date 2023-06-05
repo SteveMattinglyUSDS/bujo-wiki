@@ -1,2 +1,2 @@
-# 2023-06-02.md#inventory
+# 2023-06-02.md#^inventory
 
